@@ -9,7 +9,7 @@ public class Move : MonoBehaviour
     public float speed;
     void Start()
     {
-
+        //speed = 4f;
     }
 
     // Update is called once per frame
